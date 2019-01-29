@@ -1,0 +1,6 @@
+C:\Users\oldca\source\repos\Home\Home\bin\Release\Home.exe.config
+C:\Users\oldca\source\repos\Home\Home\bin\Release\Home.exe
+C:\Users\oldca\source\repos\Home\Home\bin\Release\Home.pdb
+C:\Users\oldca\source\repos\Home\Home\obj\Release\Home.csproj.CoreCompileInputs.cache
+C:\Users\oldca\source\repos\Home\Home\obj\Release\Home.exe
+C:\Users\oldca\source\repos\Home\Home\obj\Release\Home.pdb
